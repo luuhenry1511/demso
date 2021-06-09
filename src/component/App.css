@@ -1,0 +1,25 @@
+html{
+  font-size: 10px;
+}
+#wrapper {
+  width: 500px;
+  height: 200px;
+  margin: 50px auto;
+}
+
+.content{
+  width: 100px;
+  height: 50px;
+  margin: 50px auto;
+  font-size: medium;
+}
+@font-face {
+  font-family: Zombies;
+  src: url(../font/Zombies-Regular.ttf);
+}
+
+.title{
+  font-family: Zombies;
+  text-align: center;
+  font-size: 4em;
+}
